@@ -1,0 +1,29 @@
+{
+    # Telegram username (required)
+    #   Option: any text
+    "entry.5536349": "",
+    # Note that IT results are strictly based on fcfs, which means there is a chance of you getting dupes of a certain member/not getting who you want; any resubmission or altering of responses will not be taken into consideration. Please also be sure to rank all members. (required)
+    #   Options: ['Okay']
+    "entry.609433623": "",
+    # IT rank: Yujin (required)
+    #   Options: ['1st', '2nd', '3rd', '4th', '5th', '6th']
+    "entry.1876345498": "",
+    # IT rank: Gaeul (required)
+    #   Options: ['1st', '2nd', '3rd', '4th', '5th', '6th']
+    "entry.2043584535": "",
+    # IT rank: Rei (required)
+    #   Options: ['1st', '2nd', '3rd', '4th', '5th', '6th']
+    "entry.1226703413": "",
+    # IT rank: Wonyoung (required)
+    #   Options: ['1st', '2nd', '3rd', '4th', '5th', '6th']
+    "entry.230163185": "",
+    # IT rank: Liz (required)
+    #   Options: ['1st', '2nd', '3rd', '4th', '5th', '6th']
+    "entry.1222652786": "",
+    # IT rank: Leeseo (required)
+    #   Options: ['1st', '2nd', '3rd', '4th', '5th', '6th']
+    "entry.621643256": "",
+    # Email Address (required)
+    #   Options: email address
+    "emailAddress": ""
+}
